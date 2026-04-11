@@ -1,6 +1,7 @@
 # PROJETO-CADASTRO-DE-ANIMAIS
 
-Um parágrafo da descrição do projeto vai aqui
+Criar um sistema simples para cadastrar e organizar informações de animais (nome, peso, altura, vacina e raça).
+Evita o controle desorganizado (papel ou memória), permitindo armazenar, consultar e atualizar dados com facilidade, ajudando no acompanhamento da saúde e identificação dos animais.
 
 # 🔌Como fazer funcionar na sua máquina:
 
@@ -11,15 +12,15 @@ Um parágrafo da descrição do projeto vai aqui
 # 📋Pré-requisitos do sistema:
 
 > Windowns10 , linux
-> 
+
 
 ## 🛠️Tecnologias utilizadas:
 
 visual studio code
 python
 sqlite3
-> tkinter
-> messagebox
+tkinter
+messagebox
 
 
 
