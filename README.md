@@ -16,11 +16,11 @@ Evita o controle desorganizado (papel ou memória), permitindo armazenar, consul
 
 ## 🛠️Tecnologias utilizadas:
 
-visual studio code
-python
-sqlite3
-tkinter
-messagebox
+> visual studio code
+> python
+> sqlite3
+> tkinter
+
 
 
 
